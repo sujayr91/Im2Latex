@@ -1,1 +1,1 @@
-# Im2Latex
+# Im2LaTex
